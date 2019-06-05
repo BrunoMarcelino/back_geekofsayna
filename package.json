@@ -1,0 +1,19 @@
+{
+  "name": "back_geekofsayna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoMarcelino/back_geekofsayna.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoMarcelino/back_geekofsayna/issues"
+  },
+  "homepage": "https://github.com/BrunoMarcelino/back_geekofsayna#readme"
+}
