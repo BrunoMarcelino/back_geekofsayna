@@ -19,4 +19,7 @@ steps:
     npm install
     npm run build
     node index.js
+- task: UseNode@1
+  inputs:
+    checkLatest: true
   displayName: 'npm install and build'
